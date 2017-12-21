@@ -1,0 +1,10 @@
+/tools
+.DS_Store
+*.cmp
+*.tst
+*.out
+*.hack
+*.zip
+*.txt
+*.gif
+*.pyc
